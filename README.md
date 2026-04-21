@@ -67,7 +67,7 @@ pip install pygame
 5. Execute o jogo:
 
 ```bash
-python main.py
+python jogar.py
 ```
 
 ---
