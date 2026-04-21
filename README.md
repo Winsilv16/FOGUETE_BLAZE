@@ -48,7 +48,7 @@ git clone <seu-repositorio>
 2. Acesse a pasta:
 
 ```bash
-cd Foguete-Blaze
+cd FG
 ```
 
 3. Crie um ambiente virtual (opcional, recomendado):
