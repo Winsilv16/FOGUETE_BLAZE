@@ -64,8 +64,6 @@ No VS Code, abra o terminal integrado.
 ## Entre na pasta do jogo
 
 ```bash
-<<<<<<< HEAD
-=======
 cd FOGUETE-BLAZE-main
 cd FG
 ```
