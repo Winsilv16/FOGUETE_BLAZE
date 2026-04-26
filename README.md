@@ -37,46 +37,62 @@ O jogador controla uma nave espacial e deve **desviar de asteroides**, **derrota
 
 ---
 
-## Como executar
+# Como executar o jogo
 
-1. Clone o repositório:
+## Baixe o repositório
+
+Clone o repositório do GitHub ou baixe os arquivos `.zip`.
 
 ```bash
-git clone <seu-repositorio>
+git clone https://github.com/Winsilv16/FOGUETE_BLAZE.git
 ```
 
-2. Acesse a pasta:
+---
+
+## Abra o projeto no VS Code
+
+Abra a pasta do projeto no Visual Studio Code.
+
+---
+
+## Abra o terminal
+
+No VS Code, abra o terminal integrado.
+
+---
+
+## Entre na pasta do jogo
 
 ```bash
+<<<<<<< HEAD
+=======
+cd FOGUETE-BLAZE-main
 cd FG
 ```
 
-3. Crie um ambiente virtual (opcional, recomendado):
+---
 
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux / Codespaces
-```
-
-4. Instale o Pygame:
+## 5. Instale o Pygame
 
 ```bash
 pip install pygame
 ```
 
-5. Execute o jogo:
+---
+
+## 6. Execute o jogo
 
 ```bash
-python jogar.py
+python Jogar.py
 ```
 
 ---
 
-## ⚠️Observações!!!
+# Requisitos
 
-* Certifique-se de que todas as imagens estejam na pasta correta
-* O arquivo `recorde.txt` é usado para salvar a maior pontuação
-* O jogo pode não rodar em ambientes sem suporte gráfico (ex: Codespaces sem interface)
+* Python 3 instalado
+* Pygame instalado
+* Visual Studio Code (opcional, mas recomendado)
 
 ---
 
